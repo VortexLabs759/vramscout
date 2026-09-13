@@ -1,1 +1,0 @@
-document.body.insertAdjacentHTML('beforeend','<header><div class="wrap nav"><b class="brand"><i>V</i>VoxTask</b><a href="#demo">Demo</a></div></header>');
